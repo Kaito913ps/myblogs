@@ -1,5 +1,6 @@
 <template>
  <b-container>
+    <myheder />
   <title>{{ page.title }}</title>
   <article>
    <h1>{{ page.title }}</h1>

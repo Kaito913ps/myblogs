@@ -1,5 +1,6 @@
 <template>
  <b-container>
+    <myheader />
   <article>
    <h1>{{ page.title }}</h1>
   <nuxt-content :document="page" />
